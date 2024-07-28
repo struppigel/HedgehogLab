@@ -91,8 +91,8 @@ void thiscall_call()
 
 int main()
 {
-    //cdecl_call();
-    //stdcall_call();
+    cdecl_call();
+    stdcall_call();
     fastcall_call();
-    //thiscall_call();
+    thiscall_call();
 }
