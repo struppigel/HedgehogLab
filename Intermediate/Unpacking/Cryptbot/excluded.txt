@@ -1,0 +1,5 @@
+kernel32;IsBadReadPtr
+kernel32;IsBadWritePtr
+winmm;timeGetTime
+ucrtbase;malloc
+ucrtbase;free
