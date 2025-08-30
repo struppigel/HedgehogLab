@@ -1,7 +1,8 @@
 # @category Strings
+# Use this script before Ghidra 11.4.1
 
 from ghidra.program.model.data import StringDataInstance, TranslationSettingsDefinition
-from ghidra.program.util import DefinedStringIterator
+from ghidra.program.util import DefinedDataIterator
 from ghidra.app.script import GhidraScript
 from util import CollectionUtils
 
@@ -16,7 +17,7 @@ num_defined_data = listing.getNumDefinedData()
 monitor.initialize(num_defined_data)
 monitor.setMessage("Translating strings")
 
-for data in CollectionUtils.asIterable(DefinedStringIterator.forProgram(currentProgram, currentSelection)):
+for data in CollectionUtils.asIterable(DefinedDataIterator.definedStrings(currentProgram, currentSelection)):
     if monitor.isCancelled():
         break
     str_data_instance = StringDataInstance.getStringDataInstance(data)
