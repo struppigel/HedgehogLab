@@ -1,0 +1,1590 @@
+aee7;kernel32.GetStartupInfoA
+17626;kernel32.HeapCreate
+1109a;kernel32.GetModuleHandleW
+11213;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x004035f4 -> "FlsAlloc"
+
+11227;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x004035e8 -> "FlsGetValue"
+
+1123b;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x004035dc -> "FlsSetValue"
+
+1124f;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x004035d4 -> "FlsFree"
+
+112aa;kernel32.TlsAlloc
+112cc;kernel32.TlsSetValue
+1109a;kernel32.GetModuleHandleW
+11056;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00403564 -> "EncodePointer"
+
+1109a;kernel32.GetModuleHandleW
+11056;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00403564 -> "EncodePointer"
+
+1109a;kernel32.GetModuleHandleW
+11056;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00403564 -> "EncodePointer"
+
+1109a;kernel32.GetModuleHandleW
+11056;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00403564 -> "EncodePointer"
+
+1109a;kernel32.GetModuleHandleW
+11056;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00403564 -> "EncodePointer"
+
+1109a;kernel32.GetModuleHandleW
+11056;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00403564 -> "EncodePointer"
+
+1109a;kernel32.GetModuleHandleW
+11056;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00403564 -> "EncodePointer"
+
+1109a;kernel32.GetModuleHandleW
+11146;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00403590 -> "DecodePointer"
+
+11167;ntdll.RtlDecodePointer
+11359;kernel32.FlsAlloc
+1109a;kernel32.GetModuleHandleW
+11146;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00403590 -> "DecodePointer"
+
+11167;ntdll.RtlDecodePointer
+113af;kernel32.FlsSetValue
+1109a;kernel32.GetModuleHandleW
+114b5;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00403564 -> "EncodePointer"
+
+114cd;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00403590 -> "DecodePointer"
+
+1151c;kernel32.InterlockedIncrement
+1a24a;kernel32.InterlockedIncrement
+1a355;kernel32.InterlockedIncrement
+113cc;kernel32.GetCurrentThreadId
+17190;kernel32.GetStartupInfoA
+174f5;kernel32.GetStdHandle
+174f5;kernel32.GetStdHandle
+174f5;kernel32.GetStdHandle
+175d2;kernel32.SetHandleCount
+af78;kernel32.GetCommandLineA
+16f4f;kernel32.GetEnvironmentStringsW
+16ff8;kernel32.WideCharToMultiByte
+1704e;kernel32.WideCharToMultiByte
+17071;kernel32.FreeEnvironmentStringsW
+11fda;kernel32.GetACP
+12219;kernel32.IsValidCodePage
+12233;kernel32.GetCPInfo
+12533;kernel32.GetCPInfo
+1fe4e;kernel32.GetStringTypeW
+1ff8d;kernel32.MultiByteToWideChar
+2001a;kernel32.MultiByteToWideChar
+20039;kernel32.GetStringTypeW
+cf10;kernel32.HeapValidate
+1f803;kernel32.LCMapStringW
+1fac6;kernel32.MultiByteToWideChar
+1fb48;kernel32.MultiByteToWideChar
+1fb70;kernel32.LCMapStringW
+1fc4e;kernel32.LCMapStringW
+1fca7;kernel32.WideCharToMultiByte
+cf10;kernel32.HeapValidate
+cf10;kernel32.HeapValidate
+1fac6;kernel32.MultiByteToWideChar
+1fb48;kernel32.MultiByteToWideChar
+1fb70;kernel32.LCMapStringW
+1fc4e;kernel32.LCMapStringW
+1fca7;kernel32.WideCharToMultiByte
+cf10;kernel32.HeapValidate
+cf10;kernel32.HeapValidate
+11d80;kernel32.InterlockedDecrement
+11db7;kernel32.InterlockedIncrement
+11ea7;kernel32.InterlockedDecrement
+11eda;kernel32.InterlockedIncrement
+16ad0;kernel32.GetModuleFileNameA
+cf10;kernel32.HeapValidate
+f47d;kernel32.GetModuleHandleA
+f495;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00403288 -> "IsProcessorFeaturePresent"
+
+f4a6;kernel32.IsProcessorFeaturePresent
+1c664;CPUID:0
+1c664;[ANTIVM] --> CPUID - vendor check;https://unprotect.it/technique/cpuid/
+1c677;CPUID:1
+1c677;[ANTIVM] --> CPUID - HyperVisor bit check;https://unprotect.it/technique/cpuid/
+1c679;[ANTIVM] --> CPUID - HyperVisor res: ECX: c2da2203 -> 42da2203
+1c664;CPUID:0
+1c664;[ANTIVM] --> CPUID - vendor check;https://unprotect.it/technique/cpuid/
+1c677;CPUID:1
+1c677;[ANTIVM] --> CPUID - HyperVisor bit check;https://unprotect.it/technique/cpuid/
+1c679;[ANTIVM] --> CPUID - HyperVisor res: ECX: c2da2203 -> 42da2203
+1673a;kernel32.SetUnhandledExceptionFilter
+16740;[ANTIDEBUG] --> ^ SetUnhandledExceptionFilter;https://anti-debug.checkpoint.com/techniques/exceptions.html#unhandledexceptionfilter
+11167;ntdll.RtlDecodePointer
+11167;ntdll.RtlDecodePointer
+cf10;kernel32.HeapValidate
+95f9;kernel32.LocalAlloc
+9704;kernel32.lstrcpyA
+lstrcpyA:
+	Arg[0] = ptr 0x00452f08 -> {\x00\x00\x00\x00\x00\x00\x00\x00}
+	Arg[1] = ptr 0x004014bc -> "kernel32.dll"
+
+97e9;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00452f08 -> "kernel32.dll"
+
+980a;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00452f08 -> {\x00ernel32}
+
+9547;kernel32.GetModuleHandleA
+95bd;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00452f08 -> "VirtualProtect"
+
+95da;kernel32.VirtualProtect
+VirtualProtect:
+	Arg[0] = ptr 0x008a55b0 -> {\xb3*-\xd9\x86\xd4Y\x00}
+	Arg[1] = ptr 0x0001b618 -> {\x00\x00\x00\x00\x00\x00\x00\x00}
+	Arg[2] = 0x00000040 = 64
+	Arg[3] = ptr 0x0019c31c -> {\xa0\xf0nX`\xde\x19\x00}
+
+9916;kernel32.LoadLibraryW
+LoadLibraryW:
+	Arg[0] = ptr 0x00850320 -> L"msimg32.dll"
+
+94cd;called: ?? [8a5000+5b0]
+> 8a5000+751;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x0019dde4 -> "kernel32.dll"
+
+> 8a5000+7a9;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0019dde4 -> "GlobalAlloc"
+
+> 8a5000+804;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0019dde4 -> "GetLastError"
+
+> 8a5000+84b;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0019dde4 -> "Sleep"
+
+> 8a5000+8a6;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0019dde4 -> "VirtualAlloc"
+
+> 8a5000+93d;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0019dde4 -> "CreateToolhelp32Snapshot"
+
+> 8a5000+9ac;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0019dde4 -> "Module32First"
+
+> 8a5000+a07;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0019dde4 -> "CloseHandle"
+
+> 8a5000+d7e;kernel32.CreateToolhelp32Snapshot
+> 8a5000+d9e;kernel32.Module32First
+> 8a5000+a66;kernel32.VirtualAlloc
+VirtualAlloc:
+	Arg[0] = 0
+	Arg[1] = 0x0002d067 = 184423
+	Arg[2] = 0x00001000 = 4096
+	Arg[3] = 0x00000040 = 64
+
+> 8a5000+a9d;called: ?? [fc50000+0]
+> fc50000+a20;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0019cb88 -> "LoadLibraryA"
+
+> fc50000+96;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x0019db34 -> "kernel32.dll"
+
+> fc50000+cb;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0019db34 -> "VirtualAlloc"
+
+> fc50000+103;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0019db34 -> "VirtualProtect"
+
+> fc50000+131;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0019db34 -> "VirtualFree"
+
+> fc50000+169;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0019db34 -> "GetVersionExA"
+
+> fc50000+1a5;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0019db34 -> "TerminateProcess"
+
+> fc50000+1dd;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0019db34 -> "ExitProcess"
+
+> fc50000+212;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0019db34 -> "SetErrorMode"
+
+> fc50000+e19;kernel32.SetErrorMode
+> fc50000+e1e;kernel32.SetErrorMode
+> fc50000+daa;kernel32.GetVersionExA
+> fc50000+24d;kernel32.VirtualAlloc
+VirtualAlloc:
+	Arg[0] = 0
+	Arg[1] = 0x0002c200 = 180736
+	Arg[2] = 0x00001000 = 4096
+	Arg[3] = 0x00000004 = 4
+
+> fc50000+2e3;kernel32.VirtualProtect
+VirtualProtect:
+	Arg[0] = ptr 0x00400000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = 0x00031000 = 200704
+	Arg[2] = 0x00000040 = 64
+	Arg[3] = ptr 0x0019dba4 -> { \xde\x19\x00\x00\x00\x00\x00}
+
+> fc50000+443;kernel32.VirtualFree
+> fc50000+4f3;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x0042ac8e -> "KERNEL32.dll"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ac58 -> "WideCharToMultiByte"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ac6e -> "MultiByteToWideChar"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ac84 -> "lstrcmpiW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b18a -> "DecodePointer"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ac4c -> "lstrcatW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ac38 -> "GetComputerNameA"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ac2a -> "CloseHandle"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042acbc -> "QueryPerformanceCounter"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042acd6 -> "GetCurrentProcessId"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042acec -> "GetCurrentThreadId"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ad02 -> "GetSystemTimeAsFileTime"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ad1c -> "InitializeSListHead"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ad32 -> "IsDebuggerPresent"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ad46 -> "UnhandledExceptionFilter"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ad62 -> "SetUnhandledExceptionFilter"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ad80 -> "GetStartupInfoW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ad92 -> "IsProcessorFeaturePresent"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042adae -> "GetModuleHandleW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042adc2 -> "GetCurrentProcess"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042add6 -> "TerminateProcess"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042adea -> "RtlUnwind"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042adf6 -> "GetLastError"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ae06 -> "SetLastError"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ae16 -> "EnterCriticalSection"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ae2e -> "LeaveCriticalSection"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ae46 -> "DeleteCriticalSection"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ae5e -> "InitializeCriticalSectionAndSpinCount"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ae86 -> "TlsAlloc"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ae92 -> "TlsGetValue"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042aea0 -> "TlsSetValue"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042aeae -> "TlsFree"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042aeb8 -> "FreeLibrary"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042aec6 -> "GetProcAddress"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042aed8 -> "LoadLibraryExW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042aeea -> "RaiseException"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042aefc -> "ReadFile"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042af08 -> "SetEndOfFile"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042af18 -> "CreateFileW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042af26 -> "GetFileType"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042af34 -> "GetStdHandle"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042af44 -> "WriteFile"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042af50 -> "GetModuleFileNameW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042af66 -> "ExitProcess"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042af74 -> "GetModuleHandleExW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042af8a -> "HeapAlloc"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042af96 -> "HeapFree"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042afa2 -> "SetFilePointerEx"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042afb6 -> "GetConsoleMode"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042afc8 -> "ReadConsoleW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042afd8 -> "CompareStringW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042afea -> "LCMapStringW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042affa -> "DeleteFileW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b008 -> "GetConsoleCP"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b018 -> "GetFileSizeEx"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b028 -> "SetStdHandle"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b038 -> "GetTimeZoneInformation"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b052 -> "FlushFileBuffers"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b066 -> "HeapReAlloc"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b074 -> "FindClose"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b080 -> "FindFirstFileExW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b094 -> "FindNextFileW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b0a4 -> "IsValidCodePage"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b0b6 -> "GetACP"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b0c0 -> "GetOEMCP"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b0cc -> "GetCPInfo"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b0d8 -> "GetCommandLineA"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b0ea -> "GetCommandLineW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b0fc -> "GetEnvironmentStringsW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b116 -> "FreeEnvironmentStringsW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b130 -> "SetEnvironmentVariableW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b14a -> "GetStringTypeW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b15c -> "GetProcessHeap"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b16e -> "HeapSize"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b17a -> "WriteConsoleW"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042b19a -> "VirtualQuery"
+
+> fc50000+4f3;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x0042acac -> "ADVAPI32.dll"
+
+> fc50000+5b2;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x77690000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x0042ac9e -> "GetUserNameA"
+
+> fc50000+89a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x0019db34 -> "msvcr100.dll"
+
+> fc50000+8c4;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = 0
+	Arg[1] = ptr 0x0019db34 -> "atexit"
+
+> fc50000+91e;foo.[.text+1af8]*
+acd5;kernel32.GetSystemTimeAsFileTime
+ace4;kernel32.GetCurrentThreadId
+aced;kernel32.GetCurrentProcessId
+acfa;kernel32.QueryPerformanceCounter
+1f3b7;kernel32.IsProcessorFeaturePresent
+b0ba;CPUID:0
+b0ba;[ANTIVM] --> CPUID - vendor check;https://unprotect.it/technique/cpuid/
+b0f5;CPUID:1
+b0f5;[ANTIVM] --> CPUID - HyperVisor bit check;https://unprotect.it/technique/cpuid/
+b0f7;[ANTIVM] --> CPUID - HyperVisor res: ECX: c2da2203 -> 42da2203
+b16c;CPUID:7
+c042;kernel32.LoadLibraryExW
+LoadLibraryExW:
+	Arg[0] = ptr 0x00422b78 -> L"api-ms-win-core-synch-l1-2-0"
+	Arg[1] = 0
+	Arg[2] = 0x00000800 = 2048
+
+c0d9;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x76150000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00422c2c -> "InitializeCriticalSectionEx"
+
+c214;kernelbase.InitializeCriticalSectionEx
+c042;kernel32.LoadLibraryExW
+LoadLibraryExW:
+	Arg[0] = ptr 0x00422b3c -> L"api-ms-win-core-fibers-l1-1-1"
+	Arg[1] = 0
+	Arg[2] = 0x00000800 = 2048
+
+c0d9;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x76150000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00422be0 -> "FlsAlloc"
+
+c11f;kernelbase.FlsAlloc
+c0d9;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x76150000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00422c18 -> "FlsSetValue"
+
+c1d3;kernelbase.FlsSetValue
+165e5;kernel32.LoadLibraryExW
+LoadLibraryExW:
+	Arg[0] = ptr 0x00422b78 -> L"api-ms-win-core-synch-l1-2-0"
+	Arg[1] = 0
+	Arg[2] = 0x00000800 = 2048
+
+166ba;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x76150000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00422c2c -> "InitializeCriticalSectionEx"
+
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+1b620;kernel32.GetProcessHeap
+165e5;kernel32.LoadLibraryExW
+LoadLibraryExW:
+	Arg[0] = ptr 0x00422b3c -> L"api-ms-win-core-fibers-l1-1-1"
+	Arg[1] = 0
+	Arg[2] = 0x00000800 = 2048
+
+166ba;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x76150000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00422be0 -> "FlsAlloc"
+
+167dd;kernelbase.FlsAlloc
+166ba;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x76150000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00422c04 -> "FlsGetValue"
+
+166ba;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x76150000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00422c18 -> "FlsSetValue"
+
+1689d;kernelbase.FlsSetValue
+1689d;kernelbase.FlsSetValue
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+151d3;kernel32.GetStartupInfoW
+152c9;kernel32.GetStdHandle
+152c9;kernel32.GetStdHandle
+152c9;kernel32.GetStdHandle
+1a934;kernel32.GetCommandLineA
+1a93f;kernel32.GetCommandLineW
+1a2a9;kernel32.GetACP
+1a730;kernel32.IsValidCodePage
+1a772;kernel32.GetCPInfo
+1a36f;kernel32.GetCPInfo
+16533;kernel32.MultiByteToWideChar
+16533;kernel32.MultiByteToWideChar
+1b1c6;kernel32.GetStringTypeW
+16533;kernel32.MultiByteToWideChar
+16533;kernel32.MultiByteToWideChar
+165e5;kernel32.LoadLibraryExW
+LoadLibraryExW:
+	Arg[0] = ptr 0x00424830 -> L"api-ms-win-core-localization-l1-2-1"
+	Arg[1] = 0
+	Arg[2] = 0x00000800 = 2048
+
+166ba;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x76150000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00424c60 -> "LCMapStringEx"
+
+1696a;kernelbase.LCMapStringEx
+1696a;kernelbase.LCMapStringEx
+1a9ef;kernel32.WideCharToMultiByte
+16533;kernel32.MultiByteToWideChar
+16533;kernel32.MultiByteToWideChar
+1696a;kernelbase.LCMapStringEx
+1696a;kernelbase.LCMapStringEx
+1a9ef;kernel32.WideCharToMultiByte
+1a0dd;kernel32.GetModuleFileNameW
+165e5;kernel32.LoadLibraryExW
+LoadLibraryExW:
+	Arg[0] = ptr 0x00422bb4 -> L"kernel32"
+	Arg[1] = 0
+	Arg[2] = 0x00000800 = 2048
+
+166ba;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x75e90000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00424be4 -> "AreFileApisANSI"
+
+16747;kernel32.AreFileApisANSI
+1a9ef;kernel32.WideCharToMultiByte
+1a9ef;kernel32.WideCharToMultiByte
+ad6d;ntdll.RtlInitializeSListHead
+1aa3a;kernel32.GetEnvironmentStringsW
+1a9ef;kernel32.WideCharToMultiByte
+1a9ef;kernel32.WideCharToMultiByte
+1aaa8;kernel32.FreeEnvironmentStringsW
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+16921;kernelbase.InitializeCriticalSectionEx
+1dc24;kernel32.IsProcessorFeaturePresent
+af6e;kernel32.SetUnhandledExceptionFilter
+af74;[ANTIDEBUG] --> ^ SetUnhandledExceptionFilter;https://anti-debug.checkpoint.com/techniques/exceptions.html#unhandledexceptionfilter
+af0a;kernel32.GetStartupInfoW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429638 -> "wininet.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429638 -> "wininet.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429638 -> "wininet.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429638 -> "wininet.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429644 -> "advapi32.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429638 -> "wininet.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429638 -> "wininet.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429638 -> "wininet.dll"
+
+1090;kernel32.GetComputerNameA
+109b;advapi32.GetUserNameA
+102e;ntdll.KiUserExceptionDispatcher
+21486;kernel32.VirtualQuery
+bee3;kernel32.RtlUnwind
+77d9;kernel32.MultiByteToWideChar
+77d9;kernel32.MultiByteToWideChar
+16921;kernelbase.InitializeCriticalSectionEx
+192d1;kernel32.CreateFileW
+CreateFileW:
+	Arg[0] = ptr 0x008a2f90 -> L"c:\ProgramData\winrarupd.zip"
+	Arg[1] = 0x40000000 = 1073741824
+	Arg[2] = 0
+	Arg[3] = ptr 0x0019da00 -> {\x0c\x00\x00\x00\x00\x00\x00\x00}
+	Arg[4] = 0x00000002 = 2
+	Arg[5] = 0x00000080 = 128
+
+19722;kernel32.GetFileType
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429fb8 -> "crypt32.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429fb8 -> "crypt32.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+4c34;kernel32.ExpandEnvironmentStringsA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429638 -> "wininet.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429638 -> "wininet.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429638 -> "wininet.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429638 -> "wininet.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429644 -> "advapi32.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429638 -> "wininet.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429638 -> "wininet.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429638 -> "wininet.dll"
+
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+5218;wininet.InternetOpenA
+5224;wininet.InternetOpenUrlA
+5246;wininet.InternetReadFile
+16921;kernelbase.InitializeCriticalSectionEx
+16747;kernel32.AreFileApisANSI
+16533;kernel32.MultiByteToWideChar
+16533;kernel32.MultiByteToWideChar
+192d1;kernel32.CreateFileW
+CreateFileW:
+	Arg[0] = ptr 0x00953b38 -> L"C:\Users\richa\AppData\Local\Google\Chrome\User Data\Local State"
+	Arg[1] = 0x80000000 = 2147483648
+	Arg[2] = 0x00000003 = 3
+	Arg[3] = ptr 0x0019d994 -> {\x0c\x00\x00\x00\x00\x00\x00\x00}
+	Arg[4] = 0x00000003 = 3
+	Arg[5] = 0x00000080 = 128
+
+19722;kernel32.GetFileType
+145ad;kernel32.SetFilePointerEx
+145ad;kernel32.SetFilePointerEx
+14606;kernel32.SetFilePointerEx
+14635;kernel32.SetFilePointerEx
+1510c;kernel32.ReadFile
+1510c;kernel32.ReadFile
+1643d;kernel32.CloseHandle
+3c0e;crypt32.CryptStringToBinaryA
+3c59;crypt32.CryptUnprotectData
+16747;kernel32.AreFileApisANSI
+16533;kernel32.MultiByteToWideChar
+16533;kernel32.MultiByteToWideChar
+192d1;kernel32.CreateFileW
+CreateFileW:
+	Arg[0] = ptr 0x00953918 -> L"C:\Users\richa\AppData\Local\Google\Chrome\User Data\Local State"
+	Arg[1] = 0x80000000 = 2147483648
+	Arg[2] = 0x00000003 = 3
+	Arg[3] = ptr 0x0019d9bc -> {\x0c\x00\x00\x00\x00\x00\x00\x00}
+	Arg[4] = 0x00000003 = 3
+	Arg[5] = 0x00000080 = 128
+
+19722;kernel32.GetFileType
+145ad;kernel32.SetFilePointerEx
+145ad;kernel32.SetFilePointerEx
+14606;kernel32.SetFilePointerEx
+14635;kernel32.SetFilePointerEx
+1510c;kernel32.ReadFile
+1510c;kernel32.ReadFile
+1643d;kernel32.CloseHandle
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00429f54 -> "kernel32.dll"
+
+a16e;kernel32.GetFileAttributesA
+165e5;kernel32.LoadLibraryExW
+LoadLibraryExW:
+	Arg[0] = ptr 0x00424960 -> L"api-ms-win-core-sysinfo-l1-2-1"
+	Arg[1] = 0
+	Arg[2] = 0x00000800 = 2048
+
+166ba;kernel32.GetProcAddress
+GetProcAddress:
+	Arg[0] = ptr 0x76150000 -> {MZ\x90\x00\x03\x00\x00\x00}
+	Arg[1] = ptr 0x00424c30 -> "GetSystemTimePreciseAsFileTime"
+
+168dc;kernelbase.GetSystemTimePreciseAsFileTime
+18a37;kernel32.GetTimeZoneInformation
+1a9ef;kernel32.WideCharToMultiByte
+1a9ef;kernel32.WideCharToMultiByte
+145ad;kernel32.SetFilePointerEx
+145ad;kernel32.SetFilePointerEx
+145ad;kernel32.SetFilePointerEx
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a61e;kernel32.lstrcmpiW
+a63a;kernel32.LoadLibraryA
+LoadLibraryA:
+	Arg[0] = ptr 0x00427bf4 -> "c:\ProgramData\sqlite3.dll"
+
+a662;ntdll.KiUserExceptionDispatcher
+b4b9;ntdll.[RtlInterlockedCompareExchange64+1e2]*
