@@ -14,4 +14,6 @@ Coupon links only last a few days, but I put new ones under each video that I re
 
 ## Intermediate
 
-This course is work in progress.
+This course is hosted on [malwareanalysis-for-hedgehogs.learnworlds.com](https://malwareanalysis-for-hedgehogs.learnworlds.com/)
+
+If you have any questions, join our discord: [https://discord.gg/BSaCtKg5](https://discord.gg/BSaCtKg5)
