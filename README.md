@@ -8,12 +8,12 @@ The password for the archives is "infected" (without quotes)
 
 ## Beginners
 
-This course is hosted on [malwareanalysis-for-hedgehogs.learnworlds.com](https://malwareanalysis-for-hedgehogs.learnworlds.com/)
+This course is hosted on https://malwareanalysis-for-hedgehogs.learnworlds.com/course/malware-analysis-beginner
 
 If you have any questions, join our discord: [https://discord.gg/BSaCtKg5](https://discord.gg/BSaCtKg5)
 
 ## Intermediate
 
-This course is hosted on [malwareanalysis-for-hedgehogs.learnworlds.com](https://malwareanalysis-for-hedgehogs.learnworlds.com/)
+This course is hosted on https://malwareanalysis-for-hedgehogs.learnworlds.com/course/intermediate-level
 
 If you have any questions, join our discord: [https://discord.gg/BSaCtKg5](https://discord.gg/BSaCtKg5)
