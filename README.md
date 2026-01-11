@@ -8,7 +8,7 @@ The password for the archives is "infected" (without quotes)
 
 If you are not enrolled in my course but stumbled upon this repo because you are looking for trainings samples, check out [Samplepedia](https://samplepedia.cc/)
 
-If you are coming from malwareanalysis-for-hedgehogs, welcome to the course. You may want to consider downloading the samples from here, which has a slightly nicer UI: [Samplepedia Course Sets](https://samplepedia.cc/courses/)
+If you are coming from malwareanalysis-for-hedgehogs, welcome to the course. You may want to consider downloading the samples from here, which has a slightly nicer UI (intermediate course samples are still in progress but will be uploaded soon): [Samplepedia Course Sets](https://samplepedia.cc/courses/)
 
 ## Beginners
 
