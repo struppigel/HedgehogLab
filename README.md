@@ -2,9 +2,13 @@
 
 This repository contains samples to train malware analysis.
 
-The samples reside in encrypted archives because they are actual malware samples and can cause damage if not handled properly. So make sure you have set up a secure malware lab before extracting any of those samples.
+These samples reside in encrypted archives because they are actual malware samples and can cause damage if not handled properly. So make sure you have set up a secure malware lab before extracting any of those samples.
 
 The password for the archives is "infected" (without quotes)
+
+If you not in my course but stumbled onto this repo because you are looking for trainings samples, check out [Samplepedia](https://samplepedia.cc/)
+
+If you are coming from malwareanalysis-for-hedgehogs, welcome to the course. You may want to consider downloading the samples from here, which has a slightly nicer UI: [Samplepedia Course Sets](https://samplepedia.cc/courses/)
 
 ## Beginners
 
