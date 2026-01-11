@@ -10,10 +10,10 @@ The password for the archives is "infected" (without quotes)
 
 This course is hosted on https://malwareanalysis-for-hedgehogs.learnworlds.com/course/malware-analysis-beginner
 
-If you have any questions, join our discord: [https://discord.gg/BSaCtKg5](https://discord.gg/BSaCtKg5)
+If you have any questions, join our discord: [Discord invite link](https://discord.com/invite/GJphb6nfq9)
 
 ## Intermediate
 
 This course is hosted on https://malwareanalysis-for-hedgehogs.learnworlds.com/course/intermediate-level
 
-If you have any questions, join our discord: [https://discord.gg/BSaCtKg5](https://discord.gg/BSaCtKg5)
+If you have any questions, join our discord: [Discord invite link](https://discord.com/invite/GJphb6nfq9)
