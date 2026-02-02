@@ -2,18 +2,22 @@
 
 This repository contains samples to train malware analysis.
 
-The samples reside in encrypted archives because they are actual malware samples and can cause damage if not handled properly. So make sure you have set up a secure malware lab before extracting any of those samples.
+These samples reside in encrypted archives because they are actual malware samples and can cause damage if not handled properly. So make sure you have set up a secure malware lab before extracting any of those samples.
 
-The password for the archives is "infected"
+The password for the archives is "infected" (without quotes)
+
+If you are not enrolled in my course but stumbled upon this repo because you are looking for trainings samples, check out [Samplepedia](https://samplepedia.cc/)
+
+If you are coming from malwareanalysis-for-hedgehogs, welcome to the course. You may want to consider downloading the samples from here, which has a slightly nicer UI (intermediate course samples are still in progress but will be uploaded soon): [Samplepedia Course Sets](https://samplepedia.cc/courses/)
 
 ## Beginners
 
-The course that uses the Beginners samples is [on Udemy](https://www.udemy.com/course/windows-malware-analysis-for-hedgehogs-beginner-training/?referralCode=EE0E2DC9FA7388FF25B7)
+This course is hosted on https://malwareanalysis-for-hedgehogs.learnworlds.com/course/malware-analysis-beginner
 
-Coupon links only last a few days, but I put new ones under each video that I release. So if you check the video description of most the recent video on [my channel](https://www.youtube.com/@MalwareAnalysisForHedgehogs), you should be able to find a coupon that is still working.
+If you have any questions, join our discord: [Discord invite link](https://discord.com/invite/GJphb6nfq9)
 
 ## Intermediate
 
-This course is hosted on [malwareanalysis-for-hedgehogs.learnworlds.com](https://malwareanalysis-for-hedgehogs.learnworlds.com/)
+This course is hosted on https://malwareanalysis-for-hedgehogs.learnworlds.com/course/intermediate-level
 
-If you have any questions, join our discord: [https://discord.gg/BSaCtKg5](https://discord.gg/BSaCtKg5)
+If you have any questions, join our discord: [Discord invite link](https://discord.com/invite/GJphb6nfq9)
